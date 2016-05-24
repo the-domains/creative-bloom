@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Creative Bloom]]></title>
+        <description><![CDATA[Creative Bloom]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 May 2016 14:48:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the last 5 years the ‘near me’ search has exploded in the world of search engine terms.]]></title>
+            <description><![CDATA[<article><h1>In the last 5 years the ‘near me’ search has exploded in the world of search engine terms.</h1><h2>What is it?</h2><p>Local SEO & the 'near me' search</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c92522d18308fe9bff61cb16bc0d6112b11f0d90.png"></article>]]></description>
+            <link>undefinedin-the-last-5-years-the-near-me-search-has-exploded-in-the/index.html</link>
+            <guid isPermaLink="false">8eaac081-be61-47dd-9527-b4fd9dc236cf</guid>
+            <pubDate>Tue, 24 May 2016 14:48:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
