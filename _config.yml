@@ -1,0 +1,28 @@
+name: Creative Bloom
+favicon: null
+layout_spectrum: 0.8761972913052887
+typography_spectrum: 0.8244303956162184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.481618391815573
+  lightness: 0.7120685307309031
+  saturation: 0.6942120757885277
+  rhythmicContrast: 0.5968149930704385
+purpose: []
